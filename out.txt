@@ -1,0 +1,21 @@
+starting 
+found at line 1:   line one
+found at line 2:   some filler line between 1 and 95
+found at line 99:  line ninetynine
+found at line 100: line hundred
+found at the last line:   (null)
+Test 5: line 10000 of txt2 should be B, found 
+starting 
+found at line 1:   line one
+found at line 2:   some filler line between 1 and 95
+found at line 99:  line ninetynine
+found at line 100: line hundred
+found at the last line:   (null)
+Test 5: line 10000 of txt2 should be B, found 
+starting 
+found at line 1:   line one
+found at line 2:   some filler line between 1 and 95
+found at line 99:  line ninetynine
+found at line 100: line hundred
+found at the last line:   (null)
+Test 5: line 10000 of txt2 should be B, found 
